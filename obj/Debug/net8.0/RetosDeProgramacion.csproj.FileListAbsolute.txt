@@ -1,0 +1,15 @@
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Retos  De Programacion\RetosDeProgramacion\bin\Debug\net8.0\RetosDeProgramacion.exe
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Retos  De Programacion\RetosDeProgramacion\bin\Debug\net8.0\RetosDeProgramacion.deps.json
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Retos  De Programacion\RetosDeProgramacion\bin\Debug\net8.0\RetosDeProgramacion.runtimeconfig.json
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Retos  De Programacion\RetosDeProgramacion\bin\Debug\net8.0\RetosDeProgramacion.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Retos  De Programacion\RetosDeProgramacion\bin\Debug\net8.0\RetosDeProgramacion.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Retos  De Programacion\RetosDeProgramacion\obj\Debug\net8.0\RetosDeProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Retos  De Programacion\RetosDeProgramacion\obj\Debug\net8.0\RetosDeProgramacion.AssemblyInfoInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Retos  De Programacion\RetosDeProgramacion\obj\Debug\net8.0\RetosDeProgramacion.AssemblyInfo.cs
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Retos  De Programacion\RetosDeProgramacion\obj\Debug\net8.0\RetosDeProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Retos  De Programacion\RetosDeProgramacion\obj\Debug\net8.0\RetosDeProgramacion.sourcelink.json
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Retos  De Programacion\RetosDeProgramacion\obj\Debug\net8.0\RetosDeProgramacion.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Retos  De Programacion\RetosDeProgramacion\obj\Debug\net8.0\refint\RetosDeProgramacion.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Retos  De Programacion\RetosDeProgramacion\obj\Debug\net8.0\RetosDeProgramacion.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Retos  De Programacion\RetosDeProgramacion\obj\Debug\net8.0\RetosDeProgramacion.genruntimeconfig.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\Retos  De Programacion\RetosDeProgramacion\obj\Debug\net8.0\ref\RetosDeProgramacion.dll
